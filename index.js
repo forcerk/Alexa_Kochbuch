@@ -1,5 +1,5 @@
 // Alexa Skill application ID
-var APP_ID = "amzn1.ask.skill.3f75ce0b-1fe6-4748-a438-88f5da60c973";
+var APP_ID = "MySkillIDhere";
 
 // Import AlexaSkill
 var AlexaSkill = require('./AlexaSkill');
